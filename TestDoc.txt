@@ -1,2 +1,4 @@
 ABC
 123
+New Text
+Added Text
